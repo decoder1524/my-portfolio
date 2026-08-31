@@ -24,13 +24,13 @@ return ( <section id="contact" className="bg-slate-900 py-24"> <div className="m
             <div>
               <p className="text-sm text-gray-400">Email</p>
               <p className="text-white">
-                your-email@example.com
+                manishkumardewangan56@gmail.com
               </p>
             </div>
           </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/decoder1524"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-4 rounded-lg border border-white/10 bg-slate-950 p-4 transition hover:border-blue-500/50"
@@ -45,7 +45,7 @@ return ( <section id="contact" className="bg-slate-900 py-24"> <div className="m
           </a>
 
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/manish-kumar-dewangan-a05198324"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-4 rounded-lg border border-white/10 bg-slate-950 p-4 transition hover:border-blue-500/50"

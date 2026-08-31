@@ -47,23 +47,23 @@ function Navbar() {
         {isOpen && (
             <div className="border-t border-white/10 bg-slate-950 px-6 py-4 md:hidden">
                 <div className="flex flex-col gap-4">
-                    <a href="#home" onClick={() => setIsOpen(false)}>
+                    <a href="#home" className="text-white" onClick={() => setIsOpen(false)}>
                         Home
                     </a>
 
-                    <a href="#about" onClick={() => setIsOpen(false)}>
+                    <a href="#about" className="text-white" onClick={() => setIsOpen(false)}>
                         About </a>
 
-                    <a href="#skills" onClick={() => setIsOpen(false)}>
+                    <a href="#skills" className="text-white" onClick={() => setIsOpen(false)}>
                         Skills </a>
 
-                    <a href="#projects" onClick={() => setIsOpen(false)}>
+                    <a href="#projects" className="text-white" onClick={() => setIsOpen(false)}>
                         Projects </a>
 
-                    <a href="#services" onClick={() => setIsOpen(false)}>
+                    <a href="#services" className="text-white" onClick={() => setIsOpen(false)}>
                         Services </a>
 
-                    <a href="#contact" onClick={() => setIsOpen(false)}>
+                    <a href="#contact" className="text-white" onClick={() => setIsOpen(false)}>
                         Contact </a>
 
                 </div>
