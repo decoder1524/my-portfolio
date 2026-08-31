@@ -18,7 +18,7 @@ githubLink: "https://github.com/decoder1524/SchemePortal",
 title: "Telegram Automation",
 description:
 "An automation project built to streamline workflows using Telegram.",
-image: "/images/Projects/telegramautomation.png",
+image: "/images/Projects/telegram.webp",
 githubLink: "https://github.com/decoder1524/telegramautomation",
 },
 ];

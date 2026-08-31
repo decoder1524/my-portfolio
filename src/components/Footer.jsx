@@ -12,7 +12,7 @@ return ( <footer className="border-t border-white/10 bg-slate-950"> <div classNa
 
       <div className="flex gap-4 text-sm">
         <a
-          href="https://github.com/"
+          href="https://github.com/decoder1524"
           target="_blank"
           rel="noreferrer"
           className="text-gray-400 transition hover:text-white"
@@ -21,7 +21,7 @@ return ( <footer className="border-t border-white/10 bg-slate-950"> <div classNa
         </a>
 
         <a
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/manish-kumar-dewangan-a05198324"
           target="_blank"
           rel="noreferrer"
           className="text-gray-400 transition hover:text-white"
