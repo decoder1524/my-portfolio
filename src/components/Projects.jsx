@@ -4,14 +4,14 @@ const projects = [
 title: "Todo List",
 description:
 "A task management application for organizing and managing daily tasks efficiently.",
-image: "/images/Projects/todolist.png",
+image: "/images/Projects/todolists.png",
 githubLink: "https://github.com/decoder1524/TodoList",
 },
 {
 title: "Scheme Portal",
 description:
 "A web application designed to provide information and access related to different schemes.",
-image: "/images/Projects/schemes.png",
+image: "/images/Projects/scheme.png",
 githubLink: "https://github.com/decoder1524/SchemePortal",
 },
 {
